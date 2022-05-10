@@ -25,7 +25,7 @@ class MusicPlayer extends StatelessWidget {
               .withRounded(value: 20)
               .margin(EdgeInsets.only(bottom: 20))
               .make(),
-          "Heavenly Sword and Dragon Sabre".text.semiBold.xl2.make(),
+          "Mc Fara - Choli qushi".text.semiBold.xl2.make(),
           const PlayMusic()
         ],
       ))).make(),
